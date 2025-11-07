@@ -1,2 +1,11 @@
-# Rhythm
-Stay in Rhythm ; Stay on the Road . Dashboard of Car
+
+  # Car Dashboard
+
+  This is a code bundle for Car Dashboard. The original project is available at https://www.figma.com/design/glCAIko3mye6oA4eDAJYM0/Car-Dashboard.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
